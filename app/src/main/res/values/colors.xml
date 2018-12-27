@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_80_transparent">#CCFFFFFF</color>
+    <color name="white_semi_transparent">#80FFFFFF</color>
+    <color name="blue_opacity_20">#DEEFF7</color>
+    <color name="blue_opacity_30">#ABE1FA</color>
+    <color name="app_intro_blue">#4CA7D2</color>
+    <color name="sky_blue_light">#E1F3FB</color>
+    <color name="sky_blue_80">#99EBFF</color>
+    <color name="start_btn_green">#60b91e</color>
+    <color name="white">#FFFFFF</color>
+</resources>
